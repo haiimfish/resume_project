@@ -73,7 +73,7 @@ class MyHomePage extends StatelessWidget {
                         ),
                       ),
                       Text(
-                        'วิทยากาคอมพิวเตอร์',
+                        'วิทยาการคอมพิวเตอร์',
                         style: GoogleFonts.prompt(
                           fontSize: 12,
                           fontWeight: FontWeight.w400,
